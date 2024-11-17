@@ -3,8 +3,7 @@
 
 ## 我是李子
 
-- 🐧 搬砖工程师，搬砖中 <a href="https://yuyuanweb.com" target="_blank">xxx科技有限公司</a>
-- 👨‍💻 经历：关于我，普通人一枚
+努力成为一个有用的人
 
 ## 今年汇总 ✨
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JutDo&show_icons=true&theme=radical)
